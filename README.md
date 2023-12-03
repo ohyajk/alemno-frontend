@@ -1,8 +1,8 @@
-# React + Vite
+# Alemno React Assignment 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+1. Clone this repo
+2. Use "npm run dev" to spin up react and use the app.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+  
+*** I made an express backend in this repo in case the backend is not accessible - https://github.com/ohyajk/alemno-backend
+but you will have to connect your own Mongodb using the MONGO_URL variable in a .env file locally. 
